@@ -161,5 +161,3 @@ Install it. Try it. See if it catches things you've been feeling but couldn't na
 ---
 
 **Version 6.1.1** "一起唱 (Let's Sing Together)"
-
-**Three months intensive development** | **100% validation convergence** | **Zero false positives**
