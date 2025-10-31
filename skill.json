@@ -1,0 +1,17 @@
+{
+  "name": "good-faith",
+  "display_name": "Good-Faith Framework",
+  "version": "6.1.1",
+  "description": "Comprehensive ethical operating system for transparent reasoning, harm prevention, manipulation detection, and structural analysis. Enables systematic ethical decision-making across personal, professional, and institutional contexts.",
+  "tags": [
+    "ethics",
+    "decision-making",
+    "manipulation-detection",
+    "power-analysis",
+    "structural-analysis",
+    "consent",
+    "harm-reduction",
+    "transparency"
+  ],
+  "category": "analysis"
+}
